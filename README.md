@@ -30,4 +30,7 @@ This project integrates with Firebase for push notifications. Upon user consent,
 
 `Receiving Notification`
 
+![push-notification](https://github.com/Shrutij512/push-notifications/assets/132148988/87ab9cef-175d-485c-b835-f46f9e1efb72)
+
+
 ![firebase-react-app](https://github.com/Shrutij512/push-notifications/assets/132148988/b74ce208-b281-4d1c-872f-86fa42c2985c)
