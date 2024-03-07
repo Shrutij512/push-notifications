@@ -47,3 +47,13 @@ Notifications are sent using the Firebase Cloud Messaging API. The system utiliz
 
 
 ![firebase-react-app](https://github.com/Shrutij512/push-notifications/assets/132148988/b74ce208-b281-4d1c-872f-86fa42c2985c)
+
+
+const firebaseConfig = {
+  apiKey: "AIzaSyCoiuTWc6Y8TsYUd5JK3bFvhyiUTk-vJXw",
+  authDomain: "fir-push-notifications-e89ad.firebaseapp.com",
+  projectId: "fir-push-notifications-e89ad",
+  storageBucket: "fir-push-notifications-e89ad.appspot.com",
+  messagingSenderId: "25395518223",
+  appId: "1:25395518223:web:04be238fdf9c41c5153c7a"
+};
