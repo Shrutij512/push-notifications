@@ -10,13 +10,13 @@ Push notifications are messages or alerts sent by applications or websites to th
 
 1. Clone the repository:
 
-   ###  `git clone https://github.com/yourusername/react-push-notification-system.git`
-
-2. Install dependencies:
+   ###  `git clone https://github.com/Shrutij512/push-notifications`
+   
+3. Install dependencies:
 
    ###  `npm install`
 
-3. start the development server
+4. start the development server
 
     ###  `npm run start`
 
