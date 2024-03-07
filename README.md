@@ -24,6 +24,19 @@ Push notifications are messages or alerts sent by applications or websites to th
 
 This project integrates with Firebase for push notifications. Upon user consent, Firebase generates a unique token for each device, which is used to send notifications.
 
+## Permission Request
+
+Upon loading the app, the system will prompt the user for permission to send notifications using the browser's native notification API. If the user grants permission, the system proceeds to generate a token for the device.
+
+## Token Generation
+
+Upon user consent, Firebase generates a unique token for the device using Firebase Cloud Messaging (FCM). This token uniquely identifies the device and allows sending notifications to it.
+
+## Sending Notifications
+
+Notifications are sent using the Firebase Cloud Messaging API. The system utilizes the token obtained from Firebase to send notifications to users. Notifications are sent reliably, even when the user's mobile device is inactive or the Chrome browser is closed.
+
+
 `Firebase Console > Cloud Messaging > Send Notification`
 
 ![firebase-notification](https://github.com/Shrutij512/push-notifications/assets/132148988/15a9472b-8ecc-4e38-917d-30441ed199b6)
