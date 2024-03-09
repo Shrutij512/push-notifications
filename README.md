@@ -10,7 +10,7 @@ Push notifications are messages or alerts sent by applications or websites to th
 
 1. Clone the repository:
 
-   ###  `git clone https://github.com/Shrutij512/push-notifications`
+   ###  `git clone https://github.com/Shrutij512/push-notifications.git`
    
 3. Install dependencies:
 
